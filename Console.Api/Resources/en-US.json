@@ -1,0 +1,5 @@
+{
+  "Account.Error.EmailAlreadyUsed": "Email have already used",
+  "Account.Error.UserNotFound": "User not exist",
+  "Account.Error.WrongCredential":  "WrongCredential"
+}

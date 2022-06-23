@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Console.Infrastructure\Console.Infrastructure.csproj" />
+    <ProjectReference Include="..\Console.Module.Localization\Console.Module.Localization.csproj" />
   </ItemGroup>
 
 </Project>

@@ -9,6 +9,6 @@
   </ItemGroup>
 	
   <ItemGroup>
-    <ProjectReference Include="..\Console.Module.Localization\Console.Module.Localization.csproj" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 </Project>
