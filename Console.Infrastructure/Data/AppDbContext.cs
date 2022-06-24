@@ -1,5 +1,5 @@
-﻿using Console.ApplicationCore.Interfaces;
-using Console.ApplicationCore.Entities;
+﻿using Console.ApplicationCore.Entities;
+using Console.ApplicationCore.Interfaces;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;

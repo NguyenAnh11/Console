@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Console.Module.Localization.Constants;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Localization;
-using Console.Module.Localization.Constants;
 
 namespace Console.Api.Controllers
 {
+    [Authorize]
     [ApiController]
     public class HomeController : ControllerBase
     {
