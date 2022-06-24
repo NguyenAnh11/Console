@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module", "Module", "{A3EB3B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console.Module.Email", "Console.Module.Email\Console.Module.Email.csproj", "{E07E027E-89BF-4513-A53B-146223CA37B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.Module.Localization", "Console.Module.Localization\Console.Module.Localization.csproj", "{B0F2FCBB-7D5A-4C12-B0BB-511F55AB4549}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console.Module.Localization", "Console.Module.Localization\Console.Module.Localization.csproj", "{B0F2FCBB-7D5A-4C12-B0BB-511F55AB4549}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
