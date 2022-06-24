@@ -134,9 +134,9 @@ namespace Console.Api
 
             app.UseLocalizationModule();
 
-            app.UseAuthorization();
-
             app.UseAuthentication();
+
+            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
